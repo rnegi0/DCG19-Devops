@@ -15,4 +15,7 @@ COPY ./docroot /var/www/html/dcg/docroot
 
 EXPOSE 81
 
+
+
+
 WORKDIR /var/www/html/dcg/docroot
