@@ -1,4 +1,4 @@
-ARG PHP_APACHE=php-7.2-apache:latest
+ARG PHP_APACHE=354507137564.dkr.ecr.eu-west-1.amazonaws.com/php-7.2-apache:latest
 FROM $PHP_APACHE
 
 # Install Drush
