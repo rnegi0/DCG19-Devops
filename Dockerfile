@@ -1,4 +1,4 @@
-ARG PHP_APACHE=php-7.2-apache
+ARG PHP_APACHE=php-7.2-apache:latest
 FROM $PHP_APACHE
 
 # Install Drush
